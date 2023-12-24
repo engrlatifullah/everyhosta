@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466657067015",
+    "project_id": "everyhosta",
+    "storage_bucket": "everyhosta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466657067015:android:a87fcbddecd8e7bbff2aa2",
+        "android_client_info": {
+          "package_name": "com.dirtek.everyhosta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466657067015-m5q2e9rdv7nbijhkkabm2fgch1r0d079.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4J2_bpng3YxRDsqII_8ZVDsuNcjW1jkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466657067015-m5q2e9rdv7nbijhkkabm2fgch1r0d079.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
